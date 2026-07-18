@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Sundara Madhu Ram
 
-### 🚀 AI Engineer | Software Developer | Google Cloud Enthusiast
+### 🚀 AI Engineer | Software Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+Engineer;Google+Cloud+Certified;1000%2B+DSA+Problems+Solved;Building+Innovative+Solutions;Always+Learning+%F0%9F%9A%80"/>
 
@@ -24,7 +24,7 @@
 
 🎓 **B.Tech Computer Science Student**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning & Computer Vision**
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
 ☁️ Google Cloud Certified
 
@@ -128,23 +128,6 @@ An NLP-based sentiment analysis system using:
 
 🏅 Google for Developers Virtual Internship
 
-🏅 Associate Cloud Engineer Internship
-
-🏅 Google Cloud Generative AI Certified
-
-🏅 Oracle Cloud AI Foundations Associate
-
-🏅 Oracle Cloud AI Advanced Associate
-
-🏅 Salesforce Agentforce Specialist
-
-🏅 Cisco Python Essentials
-
-🏅 1000+ DSA Problems Solved
-
-🏅 Multiple National Level Hackathons
-
----
 
 # 📊 GitHub Stats
 
@@ -214,7 +197,7 @@ An NLP-based sentiment analysis system using:
 
 # 📜 Certifications
 
-✅ Google Generative AI
+✅ Google Cloud Generative AI Leader 
 
 ✅ Google Associate Cloud Engineer
 
@@ -224,11 +207,6 @@ An NLP-based sentiment analysis system using:
 
 ✅ Salesforce Agentforce Specialist
 
-✅ Cisco Python Essentials
-
-✅ Cisco Networking Basics
-
-✅ Cisco Introduction to Cybersecurity
 
 ---
 
