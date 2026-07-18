@@ -1,12 +1,20 @@
 <div align="center">
 
-# Hi 👋, I'm Sundara Madhu Ram
+# Hi 👋 I'm Sundara Madhu Ram
 
-### 🚀 AI/ML Enthusiast | Software Developer | Google Cloud Learner
+### 🚀 AI Engineer | Software Developer | Google Cloud Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Google+Cloud+Certified;1000%2B+DSA+Problems+Solved;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+Engineer;Google+Cloud+Certified;1000%2B+DSA+Problems+Solved;Building+Innovative+Solutions;Always+Learning+%F0%9F%9A%80"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=Madhuram89781&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Madhuram89781?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Madhuram89781?style=for-the-badge"/>
+
+</p>
 
 </div>
 
@@ -14,43 +22,44 @@
 
 # 💫 About Me
 
-🎓 B.Tech CSE Student
+🎓 **B.Tech Computer Science Student**
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Computer Vision**
 
 ☁️ Google Cloud Certified
 
-💻 Love solving Data Structures & Algorithms
+💻 Competitive Programmer with **1000+ DSA Problems Solved**
 
-🚀 Interested in Software Engineering, Cloud & AI
+🚀 Interested in **Software Engineering, AI & Cloud Computing**
 
-🌱 Currently learning
+🌱 **Currently Learning**
 
-- Advanced DSA
+- Advanced Data Structures & Algorithms
 - System Design
-- Google Cloud
+- Google Cloud Platform
 - Full Stack Development
+- Generative AI
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sundaramadhuram/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Madhuram89781" target="_blank">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:smram8978@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-🌐 Portfolio
+<a href="https://madhuramportfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -61,18 +70,18 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,mysql,firebase,tensorflow,docker,gcp,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,mysql,firebase,gcp,docker,git,github,vscode,tensorflow"/>
 
 </p>
 
 ---
 
-# 🧠 AI / ML
+# 🤖 AI / ML Skills
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- NLP
+- Natural Language Processing
 - TensorFlow
 - Keras
 - OpenCV
@@ -84,23 +93,17 @@
 
 # 🚀 Featured Projects
 
-## 🛡 Real-Time Face Anti-Spoofing
+### 🛡️ Real-Time Face Anti-Spoofing System
 
-✔ 3D CNN
+> **3D CNN | TensorFlow | OpenCV | MediaPipe**
 
-✔ TensorFlow
-
-✔ OpenCV
-
-✔ MediaPipe
-
-✔ Deep Learning
+A real-time liveness detection system that protects biometric authentication against photo, video, and mask spoofing attacks.
 
 ---
 
-## 🌿 EcoGlow
+### 🌿 EcoGlow
 
-Sustainable skincare platform using
+A sustainable skincare platform built using:
 
 - HTML
 - CSS
@@ -111,12 +114,13 @@ Sustainable skincare platform using
 
 ---
 
-## 😊 Twitter Emotion Detection
+### 😊 Twitter Emotion Detection
 
-- NLP
+An NLP-based sentiment analysis system using:
+
 - Tweepy
 - TextBlob
-- Sentiment Analysis
+- Machine Learning
 
 ---
 
@@ -126,11 +130,19 @@ Sustainable skincare platform using
 
 🏅 Associate Cloud Engineer Internship
 
+🏅 Google Cloud Generative AI Certified
+
+🏅 Oracle Cloud AI Foundations Associate
+
+🏅 Oracle Cloud AI Advanced Associate
+
+🏅 Salesforce Agentforce Specialist
+
+🏅 Cisco Python Essentials
+
 🏅 1000+ DSA Problems Solved
 
-🏅 Multiple AI & Cloud Certifications
-
-🏅 Hackathon Participant
+🏅 Multiple National Level Hackathons
 
 ---
 
@@ -138,9 +150,9 @@ Sustainable skincare platform using
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Madhuram89781&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuram89781&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -150,7 +162,7 @@ Sustainable skincare platform using
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Madhuram89781&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -158,38 +170,42 @@ Sustainable skincare platform using
 
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
-# 🏅 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuram89781&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 📚 Coding Profiles
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Madhuram89781&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/madhuram8978/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.geeksforgeeks.org/profile/madhuram8978/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
+<a href="https://codeforces.com/profile/madhuram8978" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+<a href="https://www.codechef.com/users/madhuram8978" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
@@ -200,11 +216,11 @@ Sustainable skincare platform using
 
 ✅ Google Generative AI
 
-✅ Associate Cloud Engineer
+✅ Google Associate Cloud Engineer
 
-✅ Oracle Cloud AI Foundations
+✅ Oracle Cloud AI Foundations Associate
 
-✅ Oracle Cloud AI Advanced
+✅ Oracle Cloud AI Advanced Associate
 
 ✅ Salesforce Agentforce Specialist
 
@@ -216,31 +232,54 @@ Sustainable skincare platform using
 
 ---
 
-# 💡 Quote
+# 🎯 2026 Goals
 
-> *"Code. Learn. Build. Repeat."*
+- 🚀 Crack a Software Engineering Internship
+- ☁️ Earn Professional Google Cloud Certifications
+- 🧠 Solve 1500+ DSA Problems
+- 🌍 Contribute to Open Source
+- 🤖 Build AI Products with Real Users
+
+---
+
+# ⚡ Fun Fact
+
+```cpp
+while(alive){
+    Eat();
+    Sleep();
+    Code();
+    Learn();
+    Repeat();
+}
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🚀 "Code • Learn • Build • Repeat"
 
-If you like my work, consider giving a ⭐ to my repositories.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhuram89781&theme=tokyonight"/>
 
-</div>## Hi there 👋
+<br><br>
 
-<!--
-**Madhuram89781/Madhuram89781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhuram89781&theme=tokyonight"/>
 
-Here are some ideas to get you started:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhuram89781&theme=tokyonight"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madhuram89781&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhuram89781&theme=tokyonight&utcOffset=5.5"/>
+
+---
+
+### ⭐ Thanks for Visiting!
+
+If you like my projects, consider giving them a ⭐
+
+**Happy Coding! 🚀**
+
+</div>
